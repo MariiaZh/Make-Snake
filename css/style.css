@@ -1,0 +1,9 @@
+canvas {
+    display: block;
+    margin: 0 auto;
+    box-shadow: lightslategray;
+}
+
+.grass {
+    background: linear-gradient(#AAD751, #4A752C);
+}
